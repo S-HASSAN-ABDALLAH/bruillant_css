@@ -87,6 +87,12 @@ body {
     --couleur-carte: #ffe6e6;
  }
 
+ .theme-pastel {
+     --couleur-fond: #fdf6f0;
+    --couleur-texte: #6c5b7b;
+    --couleur-carte: #ffe0ac;
+}
+
  /* 📱 Responsive */
  @media (max-width: 600){
     .controls {
